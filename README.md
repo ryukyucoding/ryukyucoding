@@ -27,7 +27,7 @@ Boosted social media reach by 287% and launched successful digital campaigns
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryukyucoding&theme=discord_old_blurple)
 
 ### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryukyucoding)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryukyucoding&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryukyucoding&theme=discord_old_blurple)
 
 ### Technical Skills
