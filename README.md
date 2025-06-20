@@ -14,7 +14,7 @@ When I'm not buried in code, you'll find me leading teams, designing interfaces,
 ### Courses I've taken in NTU
 | Core Courses | Advanced Courses |
 |---|---|
-| 💻 Programming Design (C/C++)<br>🗃️ Data Structure<br>🔍 Algorithm<br>💾 Operating System<br>🔢 Linear Algebra | 🤖 Foundations of Artificial Intelligence<br>📊 Introduction of Text Mining<br>📈 Operation Research<br>💰 Introduction to Decentralized Finance<br>🌐 Decentralized Applications Design and Practice |
+| 💻 Programming Design (C/C++)<br>🗃️ Data Structures and Advanced Program Design<br>🔍 Algorithm<br>💾 Operating System<br>🔢 Linear Algebra | 🤖 Foundations of Artificial Intelligence<br>📊 Introduction of Text Mining<br>📈 Operation Research<br>💰 Introduction to Decentralized Finance<br>🌐 Decentralized Applications Design and Practice |
 
 ### Leadership & Activities
 **2025 Information Management Night & Week** - General Coordinator  
