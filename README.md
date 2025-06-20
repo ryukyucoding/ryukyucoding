@@ -17,7 +17,7 @@ I am a student enrolled at National Taiwan University, specializing in psycholog
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryukyucoding&theme=discord_old_blurple)
 
 ### GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryukyucoding&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sleeping-psystudent&theme=discord_old_blurple))
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryukyucoding&theme=discord_old_blurple)
 
 [linkedin]: https://www.linkedin.com/in/sherryliuyu/
