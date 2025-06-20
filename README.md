@@ -24,7 +24,7 @@ Leading a 30-member team across 8 departments, managing event logistics and time
 Boosted social media reach by 287% and launched successful digital campaigns
 
 ## Profile Details
-![]()
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryukyucoding&theme=discord_old_blurple)
 
 ### GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryukyucoding&theme=discord_old_blurple)
