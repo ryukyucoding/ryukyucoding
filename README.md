@@ -1,11 +1,13 @@
-# Hi, my name is Hsuan-Yu Liu 劉軒羽 🐱
+# Hi, I'm Liu Hsuan-Yu 劉軒羽 🐱
 [<img align="left" alt="Hsuan-Yu | LinkedIn" width="40px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="Hsuan-Yu | Gmail" width="40px" src="./mail.svg" />][Gmail]
 <br><br>
 
-Hey there! I'm Hsuan-Yu Liu 劉軒羽, an Information Management student at NTU who gets genuinely excited about turning messy problems into elegant solutions. 💻
 When I'm not buried in code, you'll find me leading teams, designing interfaces, or figuring out how to make technology more human.  I believe the best software doesn't just run, it's fun. ✨ 
+
 What drives me: Building stuff that people actually want to use, whether that's streamlining business processes or creating delightful user experiences. I'm fascinated by how good design and solid engineering can transform everyday interactions.
+
+
 Currently vibing with: React ecosystems, full-stack development, and exploring how AI can enhance (not replace) human creativity. Always down to learn something new or collaborate on interesting projects! 🚀
 
 ### Project Experience
