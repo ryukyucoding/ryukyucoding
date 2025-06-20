@@ -3,22 +3,18 @@
 [<img align="left" alt="Hsuan-Yu | Gmail" width="40px" src="./mail.svg" />][Gmail]
 <br><br>
 
-When I'm not buried in code, you'll find me leading teams, designing interfaces, or figuring out how to make technology more human.  I believe the best software doesn't just run, it's fun. ✨ 
-
-What drives me: Building stuff that people actually want to use, whether that's streamlining business processes or creating delightful user experiences. I'm fascinated by how good design and solid engineering can transform everyday interactions.
-
-
-Currently vibing with: React ecosystems, full-stack development, and exploring how AI can enhance (not replace) human creativity. Always down to learn something new or collaborate on interesting projects! 🚀
+When I'm not buried in code, you'll find me leading teams, designing interfaces, or figuring out how to make technology more human. I believe the best software doesn't just run, it's fun. ✨ I love building stuff that people actually want to use, whether that's streamlining business processes or creating delightful user experiences. I'm fascinated by how good design and solid engineering can transform everyday interactions, and I'm currently exploring how AI can enhance (not replace) human creativity. Always down to learn something new or collaborate on interesting projects! 🚀
 
 ### Project Experience
-🚀 **Enterprise Resource Planning Website** - Full-stack Developer  
+🚀 **[Enterprise Resource Planning Website](https://github.com/pierrechen2001/js_pest_crm)** - Full-stack Developer (React, Node.js, Material-UI, Google API)  
 🏆 **2024 International ICT Innovative Services Awards Champion** - Lead Developer (AI ChatBot, LINE integration)  
-🌐 **NTU Orientation Camp Website** - Frontend Developer (HTML, CSS, JavaScript)
+🌐 **[NTU Orientation Camp Website](https://github.com/Angelicac-Wang/ntupipcamp2024)** - Frontend Developer (HTML, CSS, JavaScript)
+
 
 ### Courses I've taken in NTU
-| Programming Languages | Core Courses | Advanced Courses |
-|---|---|---|
-| `C/C++` Programming Design<br>`Python` Data Analysis & AI<br>`JavaScript` Web Development<br>`Solidity` Blockchain Development | 🔍 Algorithm<br>🗃️ Data Structure<br>💾 Operating System<br>🔢 Linear Algebra | 🤖 Foundations of Artificial Intelligence<br>📊 Introduction of Text Mining<br>💰 Introduction to Decentralized Finance<br>🌐 Web Development Projects |
+| Core Courses | Advanced Courses |
+|---|---|
+| 💻 Programming Design (C/C++)<br>🗃️ Data Structure<br>🔍 Algorithm<br>💾 Operating System<br>🔢 Linear Algebra | 🤖 Foundations of Artificial Intelligence<br>📊 Introduction of Text Mining<br>📈 Operation Research<br>💰 Introduction to Decentralized Finance<br>🌐 Decentralized Applications Design and Practice |
 
 ### Leadership & Activities
 **2025 Information Management Night & Week** - General Coordinator  
